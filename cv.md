@@ -12,3 +12,13 @@
 ## **About Me**
 
 I am 30 years old, I work as a CPU operator. I easily find contact with new people. I love learning new things. I have been playing **team** sports since childhood.
+
+# Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Git/GitHub
+- Ant Design, Material-UI
+- Figma
