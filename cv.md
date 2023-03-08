@@ -8,3 +8,7 @@
 - [GitHub](https://github.com/pavelzhelezniak)
 - [LinkedIn](https://www.linkedin.com/in/павел-железняк-84aa5a228)
 - [Telegram](https://t.me/pavel_zhelezniak)
+
+## **About Me**
+
+I am 30 years old, I work as a CPU operator. I easily find contact with new people. I love learning new things. I have been playing **team** sports since childhood.
