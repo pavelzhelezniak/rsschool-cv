@@ -22,3 +22,34 @@ I am 30 years old, I work as a CPU operator. I easily find contact with new peop
 - Git/GitHub
 - Ant Design, Material-UI
 - Figma
+
+## **Code Example**
+
+**Simple Fun #176: Reverse Letter (7 kyu) - Codewars**
+Task : Given a string str, reverse it omitting all non-alphabetic characters.
+
+```
+const  alphabet = 'abcdefghijklmnopqrstuvwxyz';
+const  reverseLetter = str => str.split('')
+	.reverse()
+	.filter(item => alphabet.indexOf(item) !== -1)
+	.join('');
+
+console.log(reverseLetter("krishan"), "nahsirk");
+console.log(reverseLetter("ultr53o?n"), "nortlu");
+console.log(reverseLetter("ab23c"), "cba");
+console.log(reverseLetter("krish21an"), "nahsirk");
+```
+
+## **Education**
+
+- **University:** Euphrosyne Polotskaya State University of Polotsk, Faculty of Engineering and Technology, Chemical technology of natural energy carriers and carbon materials (chemical engineer technologist)
+- **Courses:**
+  - [FreeCodeCamp](https://www.freecodecamp.org/)
+  - [HTML Academy](https://www.htmlacademy.ru/)
+  - [Udemy](https://www.udemy.com/)
+  - [IT-INKUBATOR](https://it-incubator.io/)
+
+## **English**
+
+**A2** (Lately, I've been spending more time learning the language.)
